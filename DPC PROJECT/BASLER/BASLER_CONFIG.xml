@@ -1,0 +1,17 @@
+<BASLER_CAM>
+    <CODE_PATH>/home/ultratech-tadipatri/insightzz/DPC-PROJECT/FRAMECAPTURE/</CODE_PATH>
+    <LOG_FILE_PATH>/home/ultratech-tadipatri/insightzz/DPC-PROJECT/LogFiles/</LOG_FILE_PATH>
+    <LOG_BACKUP_COUNT>5</LOG_BACKUP_COUNT>
+    <CAM_SERIAL_NO>24492708</CAM_SERIAL_NO>
+    <CAM_NAME>Basler Camera</CAM_NAME>
+    <EXPOSURE>100000</EXPOSURE>
+    <FRAME_RATE>4.00</FRAME_RATE>
+    <SAVE_LIVE_IMG_PATH>/home/ultratech-tadipatri/insightzz/DPC-PROJECT/FRAMECAPTURE/both_cams/left_side/data/CAM2/</SAVE_LIVE_IMG_PATH>
+    <UI_PATH>/home/ultratech-tadipatri/insightzz/DPC-PROJECT/FRAMECAPTURE/both_cams/left_side/data/CAM2/TMP/</UI_PATH>
+    <INF_PATH>/home/ultratech-tadipatri/insightzz/DPC-PROJECT/FRAMECAPTURE/both_cams/left_side/data/CAM2/INF/</INF_PATH>
+    <RAW_IMG_PATH>/home/ultratech-tadipatri/insightzz/DPC-PROJECT/FRAMECAPTURE/Raw_Data/Left_side/</RAW_IMG_PATH>
+    <DB_USER>root</DB_USER>
+    <DB_PASS>insightzz123</DB_PASS>
+    <DB_HOST>localhost</DB_HOST>
+    <DB_NAME>dpctadipatridb</DB_NAME>
+</BASLER_CAM>

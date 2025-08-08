@@ -1,0 +1,23 @@
+<FLIR_CAM>
+    <DB_CONN>
+        <DB_USER>root</DB_USER>
+        <DB_PASS>insightzz123</DB_PASS>
+        <DB_HOST>localhost</DB_HOST>
+        <DB_NAME>dpctadipatridb</DB_NAME>
+    </DB_CONN>
+    <CODE_DETAILS>
+        <CODE_PATH>/home/ultratech-tadipatri/insightzz/DPC-PROJECT/FRAMECAPTURE/</CODE_PATH>
+        <LOG_FILE_PATH>/home/ultratech-tadipatri/insightzz/DPC-PROJECT/LogFiles/</LOG_FILE_PATH>
+        <LOG_BACKUP_COUNT>5</LOG_BACKUP_COUNT>
+        <CAM_SERIAL_NO>23544454</CAM_SERIAL_NO>
+        <INTERFACE_NAME>GEV Interface 1</INTERFACE_NAME>
+        <CAM_NAME>Flir Camera</CAM_NAME>
+        <EXPOSURE>5000</EXPOSURE>
+        <FRAME_RATE>4.00</FRAME_RATE>
+        <DEVICE_THROUGHPUT_VALUE>3202000</DEVICE_THROUGHPUT_VALUE>
+        <SAVE_LIVE_IMG_PATH>/home/ultratech-tadipatri/insightzz/DPC-PROJECT/FRAMECAPTURE/both_cams/right_side/data/CAM1/</SAVE_LIVE_IMG_PATH>
+        <UI_PATH>/home/ultratech-tadipatri/insightzz/DPC-PROJECT/FRAMECAPTURE/both_cams/right_side/data/CAM1/TMP/</UI_PATH>
+        <INF_PATH>/home/ultratech-tadipatri/insightzz/DPC-PROJECT/FRAMECAPTURE/both_cams/right_side/data/CAM1/INF/</INF_PATH>
+        <RAW_IMG_PATH>/home/ultratech-tadipatri/insightzz/DPC-PROJECT/FRAMECAPTURE/Raw_Data/Right_Side/</RAW_IMG_PATH>
+    </CODE_DETAILS>
+</FLIR_CAM>
